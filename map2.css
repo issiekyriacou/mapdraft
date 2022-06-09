@@ -1,0 +1,26 @@
+
+h1{
+    position:absolute;
+     font-family: "Futura (Light)";
+     font-size: 25px;
+     margin-top: 3px;
+     margin: 0;
+ }
+ 
+ 
+ 
+ #map{
+     position: fixed;
+     margin-top: 0;
+     margin-left: 0;
+     left: 200;
+ }
+ 
+ 
+ #svg1{
+     position: fixed;
+     margin-top: 0;
+     margin-left: ;
+ }
+
+ 
